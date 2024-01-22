@@ -1,4 +1,6 @@
 from nodeset import *
+from datatypes import NodeId
+from nodes import *
 import graphviz as gv
 import codecs
 
